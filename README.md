@@ -2,6 +2,8 @@
 
 I attempted this question to practice my grasp in arrays, which has been my weakest point at the time of this task.
 
+This question can be found on [Project Euler](http://projecteuler.net/problem=2).
+
 (Week 2)
 
 ###Question:
